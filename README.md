@@ -1,2 +1,3 @@
 # SwiftUI_DarkMode_Medium
-SwiftUI dark mode theme switch, using device colour scheme for theme.
+SwiftUI dark mode theme switch, using device colour scheme for theme. Medium article can be found here:
+
