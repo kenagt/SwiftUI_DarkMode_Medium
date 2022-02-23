@@ -20,9 +20,7 @@ struct HomeView: View {
     
     func setAppTheme(){
         //MARK: use saved device theme from toggle
-        isDarkModeOn = UserDefaultsUtils.shared.getDarkMode()
-        changeDarkMode(state: isDarkModeOn)
-        
+        isDarkModeOn = UserDefaultsUtils.shared.getDarkMode()        
         //MARK: or use device theme
         /*
          if (colorScheme == .dark)
